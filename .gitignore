@@ -1,0 +1,9 @@
+*.exe
+Properties/
+obj/
+bin/
+*.csproj
+*.config
+*.sln
+*.pdf
+*.log
